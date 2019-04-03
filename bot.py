@@ -2,7 +2,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import sys
 import threading
 
-targetId = "mr_banana"
+targetId = "SadeghShobeiri"
 
 def echo(bot, update):
 	print("echo")
